@@ -65,7 +65,7 @@ The library support standard NodeJS callback and Promise workflow as well.
 
 ## Examples
 
-See [example.js](https://github.com/Kikobeats/meaning-cloud/blob/master/example.js)
+See [example.js](https://github.com/Kikobeats/meaning-cloud/blob/master/example.js) and examples.coffee.
 
 ## License
 
